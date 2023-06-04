@@ -1,0 +1,26 @@
+{
+  "name": "lilac-theme",
+  "displayName": "Lilac-theme",
+  "description": "using-lilac-tone-fkie",
+  "version": "0.0.1",
+  "publisher": "Fkie01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fkie01/vs-code-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lilac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilac-color-theme.json"
+      }
+    ]
+  }
+}
