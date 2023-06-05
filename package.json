@@ -6,8 +6,14 @@
   "publisher": "Fkie01",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fkie01/vs-code-theme.git"
+    "url": "https://github.com/Fkie01/vs-code-theme"
   },
+  "keywords": [
+    "lilac",
+    "Fkie01",
+    "dark theme",
+    "Lilac theme"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },

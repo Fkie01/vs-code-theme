@@ -215,7 +215,11 @@
     "notebook.cellToolbarSeparator": "#ffd6ff",
     "notebook.cellHoverBackground": "#ffd6ff5e",
     "notebook.focusedCellBorder": "#bbd0ff",
-    "notebook.outputContainerBorderColor": "#b8c0ffaf"
+    "notebook.outputContainerBorderColor": "#b8c0ffaf",
+    "keybindingLabel.background": "#1f1443",
+    "keybindingLabel.border": "#C5B7FA",
+    "keybindingLabel.foreground": "#C5B7FA",
+    "keybindingLabel.bottomBorder": "#C5B7FA"
   },
   "tokenColors": [
     {
