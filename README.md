@@ -8,5 +8,5 @@ You can author your README using Visual Studio Code. Here are some useful editor
 To use this extension press [cmd+shift+p]
 ## For more information
 contact me via 
---TW : Fkie01--
+-TW : @Fkie01
 **Enjoy!**
