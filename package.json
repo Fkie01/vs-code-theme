@@ -1,8 +1,8 @@
 {
   "name": "Fkie-lilac-theme",
   "displayName": "Lilac-theme",
-  "description": "using-lilac-tone-fkie",
-  "version": "0.0.2",
+  "description": "A lilac black theme extension",
+  "version": "0.1.1",
   "publisher": "Fluke01",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "keywords": [
     "lilac",
-    "Fkie01",
+    "lilac-dark",
     "dark theme",
     "Lilac theme"
   ],
