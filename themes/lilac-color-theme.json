@@ -220,6 +220,7 @@
     "keybindingLabel.border": "#C5B7FA",
     "keybindingLabel.foreground": "#C5B7FA",
     "keybindingLabel.bottomBorder": "#C5B7FA"
+
   },
   "tokenColors": [
     {
@@ -342,10 +343,11 @@
         "punctuation.definition.comment.scss",
         "punctuation.definition.comment.js",
         "punctuation.definition.comment.html",
-        "comment.block.html"
+        "comment.block.html",
+        "comment.line.number-sign.python"
       ],
       "settings": {
-        "foreground": "#6D6F7C"
+        "foreground": "#d26a79"
       }
     },
     {
@@ -411,7 +413,8 @@
         "variable.function.constructor",
         "entity.name.tag.other.html",
         "entity.name.tag.block.any.html",
-        "source.sass keyword.control"
+        "source.sass keyword.control",
+        "keyword.control.flow.python"
       ],
       "settings": {
         "foreground": "#B1A1E2"
